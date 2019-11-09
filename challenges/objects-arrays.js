@@ -89,7 +89,7 @@ const unisWithUni = [];
 graduates.forEach(graduate => {
   if(graduate.university.includes("Uni")){
 
-    unisWithUni.push(`${graduate.university}`);
+    unisWithUni.push(`${graduate.university}`); 
   }
 });
 
